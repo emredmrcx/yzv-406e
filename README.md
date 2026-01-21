@@ -1,5 +1,7 @@
 # Stretch Simulation Workflow
 
+Version 2 files are too large to upload here, therefore they are uploaded to this [link](https://drive.google.com/drive/folders/1CzBpMjR5p07C_zGG9bKV9HuhQYNIuIMT?usp=sharing). Below explains the workflow for the version 2. Readme file for version 1 can be found in version_1 folder.
+
 ## Setup
 1. Clone the repository.
 2. Follow the Docker setup instructions: [README_DOCKER.md](https://github.com/hello-robot/stretch_ros2/blob/humble/stretch_simulation/README_DOCKER.md)
